@@ -1,6 +1,6 @@
 {
   "name": "monitor-express",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "A monitor for express, with a built in log system",
   "main": "index.js",
   "directories": {
