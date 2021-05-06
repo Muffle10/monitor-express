@@ -8,11 +8,11 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "jest "
+    "test": "echo 'Jest tests will come soon' "
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Muffle10/express-monitor.git"
+    "url": "git+https://github.com/Muffle10/monitor-express.git"
   },
   "keywords": [
     "express"
