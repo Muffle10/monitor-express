@@ -1,0 +1,26 @@
+{
+  "name": "express-monitor",
+  "version": "1.0.0",
+  "description": "A monitor for express, with a built in log system",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muffle10/express-monitor.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Marqez Lemmonds",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Muffle10/express-monitor/issues"
+  },
+  "homepage": "https://github.com/Muffle10/express-monitor#readme"
+}
