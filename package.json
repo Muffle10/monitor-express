@@ -1,5 +1,5 @@
 {
-  "name": "express-monitor",
+  "name": "monitor-express",
   "version": "1.0.0",
   "description": "A monitor for express, with a built in log system",
   "main": "index.js",
@@ -20,7 +20,7 @@
   "author": "Marqez Lemmonds",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Muffle10/express-monitor/issues"
+    "url": "https://github.com/Muffle10/monitor-express/issues"
   },
-  "homepage": "https://github.com/Muffle10/express-monitor#readme"
+  "homepage": "https://github.com/Muffle10/monitor-express#readme"
 }
