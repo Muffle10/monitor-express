@@ -1,8 +1,10 @@
 # monitor-express
 
-An express-monitor, with a built in log.
+An express monitor, with a built in log.
 
-Traces requests and gives a choice to save them into a file
+Traces requests and the location where the request was sent.
+
+Generates a monitor.log.json file, and writes to it after every save. 
 
 ### How To Use
 
