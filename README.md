@@ -16,7 +16,7 @@ var { monitor } = require("monitor-express");
 var app = require("express")();
 app.use("*", monitor);
 ```
-ES5:
+ES6:
 ```javascript
 import { monitor } from "monitor-express"
 var app = require("express")();
