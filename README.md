@@ -19,6 +19,7 @@ app.use("*", monitor);
 ES6:
 ```javascript
 import { monitor } from "monitor-express"
-var app = require("express")();
+import express from "express"
+var app = express()
 app.use("*", monitor);
 ```
