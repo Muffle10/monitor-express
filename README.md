@@ -10,8 +10,15 @@ Generates a monitor.log.json file, and writes to it after every save.
 
 To access trace middleware
 
+CommonJS:
 ```javascript
 var { monitor } = require("monitor-express");
+var app = require("express")();
+app.use("*", monitor);
+```
+ES5:
+```javascript
+import { monitor } from "monitor-express"
 var app = require("express")();
 app.use("*", monitor);
 ```
