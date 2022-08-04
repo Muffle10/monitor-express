@@ -1,6 +1,6 @@
 {
   "name": "monitor-express",
-  "version": "1.0.17",
+  "version": "1.1.0",
   "description": "A monitor for express, with a built in log system",
   "main": "index.js",
   "directories": {
@@ -15,7 +15,8 @@
     "url": "git+https://github.com/Muffle10/monitor-express.git"
   },
   "keywords": [
-    "express"
+    "express",
+    "logger"
   ],
   "author": "Marqez Lemmonds",
   "license": "MIT",
