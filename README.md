@@ -1,6 +1,6 @@
 # monitor-express
 
-An express monitor, with a built in log.
+A fast, simple, lightweight express monitor, with a built in log.
 
 Traces requests and the location where the request was sent.
 
